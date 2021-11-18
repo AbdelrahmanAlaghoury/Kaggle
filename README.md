@@ -1,6 +1,6 @@
 # Kaggle-competitions
 
-That directory contains NoteBooks as well as competitions data.
+Competitions notebooks
 
 
 ## Kaggle-NoteBooks
